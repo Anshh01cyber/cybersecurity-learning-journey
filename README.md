@@ -17,7 +17,17 @@ Cybersecurity MSc student learning practical security skills.
 
 ## Progress Log
 
+
 ### Day 1
 - Created GitHub profile
 - Created first repository
-- Started cybersecurity journey
+- Learned:
+  - What a network is
+  - Router basics
+  - Switch basics
+  - Firewall basics
+  - IP addresses
+  - Packets
+- Practiced:
+  - ipconfig
+  - ping google.com
