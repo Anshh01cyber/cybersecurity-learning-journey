@@ -28,6 +28,7 @@ Cybersecurity MSc student learning practical security skills.
   - Firewall basics
   - IP addresses
   - Packets
+  - ports
 - Practiced:
   - ipconfig
   - ping google.com
