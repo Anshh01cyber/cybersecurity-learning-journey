@@ -32,3 +32,18 @@ Cybersecurity MSc student learning practical security skills.
 - Practiced:
   - ipconfig
   - ping google.com
+ 
+
+### Day 2
+- Learned public vs private IP addresses
+- Learned DNS basics
+- Learned HTTP vs HTTPS
+- Learned how websites load
+- - Practiced DNS lookups using nslookup
+- Observed IPv4 and IPv6 addresses
+- Used tracert to analyze packet routing
+- Identified:
+  - Home router
+  - ISP infrastructure
+  - Google network infrastructure
+- Learned that some routers block traceroute responses for security reasons
